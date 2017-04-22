@@ -17,4 +17,7 @@
     <color name="btn_login_bg">#eceef1</color>
     <color name="lbl_name">#333333</color>
     <color name="btn_logut_bg">#ff6861</color>
+    <color name="black">#000000</color>
+    <color name="mainBackgroundTint">#1d0013</color>
+    <color name="gray">#808080</color>
 </resources>

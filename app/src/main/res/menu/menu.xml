@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_marginTop="50dp">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            style="@style/AppTheme.EditText"
+            android:title="MESARMENT" />
+        <item
+            android:id="@+id/nav_search"
+            style="@style/AppTheme.EditText"
+            android:title="PROFILE" />
+        <item
+            android:id="@+id/nav_appt"
+            style="@style/AppTheme.EditText"
+            android:title="GRAPH" />
+        <item
+            android:id="@+id/nav_acc"
+            android:title="HISTORY DETAILS" />
+        <item
+            android:id="@+id/logout"
+            android:icon="@null"
+            style="@style/AppTheme.EditText"
+            android:title="LOG OUT" />
+
+    </group>
+
+</menu>
